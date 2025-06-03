@@ -9,8 +9,8 @@
 Please complete this section by the **end of the first week** of the semester.
 Failure to do so may result in being dropped from the course due to inactivity, per university policy.
 
-- **Full Name**: [Your Full Name Here]  
-- **SFSU Email**: [Your SFSU Email Here]
+- **Full Name**: [Daniel Cha]  
+- **SFSU Email**: [dcha@sfsu.edu]
 
 ---
 
