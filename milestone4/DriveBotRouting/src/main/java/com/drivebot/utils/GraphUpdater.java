@@ -7,7 +7,6 @@ public class GraphUpdater {
 
     public static void updateGraphWeights(Graph graph) {
         for (Edge edge : graph.getAllEdges()) {
-            // ✅ Preserve negative weights (subsidies, discounts)
             if (edge.getWeight() < 0) {
                 continue;
             }
